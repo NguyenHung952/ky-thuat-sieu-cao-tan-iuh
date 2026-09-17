@@ -1,74 +1,57 @@
-# 📡 Kỹ thuật siêu cao tần
+# Kỹ thuật siêu cao tần — IUH
 
-> Kho tài liệu học tập môn **Kỹ thuật siêu cao tần (Microwave Engineering)**, được sắp xếp lại để dễ tìm giáo trình, bài giảng và tài liệu tham khảo.
+Kho tài liệu học tập môn **Kỹ thuật siêu cao tần (Microwave Engineering)** tại IUH.
 
-## 📚 Nội dung repository
-
-Repository hiện tập trung vào tài liệu phục vụ học và ôn tập môn Kỹ thuật siêu cao tần:
-
-| Thư mục | Nội dung |
-|---|---|
-| `giao-trinh/` | Giáo trình và tài liệu học chính |
-| `bai-giang/` | Slide/bộ bài giảng |
-| `tai-lieu-tham-khao/` | Sách và tài liệu tham khảo chuyên ngành |
-
-## 🗂️ Cấu trúc hiện tại
+## Cấu trúc
 
 ```text
-ky_thuat_sieu_cao_tan/
-├── giao-trinh/
-│   ├── KTSCT-compressed.pdf
-│   └── Ki_thuat_sieu_cao_tan_1_ok.pdf
-│
-├── bai-giang/
-│   ├── Bai giang C1-C3 KT SCT.rar
-│   └── chuong 1.pptx
-│
-├── tai-lieu-tham-khao/
-│   ├── 9095f10ada1b90345a8bd3fd3bd5d983.pdf
-│   ├── Pozar_Microwave_Engineering.pdf
-│   └── SmithPrint.pdf
-│
+ky-thuat-sieu-cao-tan-iuh/
+├── bai-giang/              # Bài giảng, slide và file bài giảng gốc
+├── giao-trinh/             # Giáo trình và sách học chính
+├── tai-lieu-tham-khao/     # Smith Chart và tài liệu tham khảo
+├── file-goc/               # File nén/gốc
 └── README.md
 ```
 
-## 🎯 Mục đích
+Repository hiện có các nhóm tài liệu về Kỹ thuật siêu cao tần, trong đó có `KTSCT.pdf`, các slide chương 1–3, giáo trình Kỹ thuật siêu cao tần, tài liệu Pozar và tài liệu/đồ thị Smith. fileciteturn21file0L8-L52
 
-- Hệ thống hóa tài liệu môn Kỹ thuật siêu cao tần.
-- Dễ truy cập giáo trình, bài giảng và tài liệu tham khảo.
-- Hỗ trợ học lý thuyết, tra cứu và ôn tập.
-- Làm nguồn tài liệu cá nhân cho quá trình học tập.
+## Tài liệu chính
 
-## 🧭 Gợi ý cách học
+### Bài giảng
 
-1. Bắt đầu từ tài liệu trong `giao-trinh/` để nắm kiến thức nền tảng.
-2. Kết hợp `bai-giang/` để theo dõi nội dung theo chương/bài học.
-3. Dùng `tai-lieu-tham-khao/` khi cần đọc sâu hoặc tra cứu thêm.
-4. Có thể mở trực tiếp PDF/PowerPoint trên GitHub hoặc tải về máy để học offline.
+- `KTSCT.pdf`
+- `chuong 1.pptx`
+- `chuong 2.pptx`
+- `chuong 3.pptx`
+- `9095f10ada1b90345a8bd3fd3bd5d983.pdf`
+- `Bai giang C1-C3 KT SCT.rar`
 
-## 📖 Chủ đề liên quan
+### Giáo trình
 
-Tùy theo tài liệu, môn học có thể bao gồm các nội dung như:
+- `Ki_thuat_sieu_cao_tan_1_ok.pdf`
+- `KTSCT-compressed.pdf`
+- `Pozar_Microwave_Engineering.pdf`
+- `Pozar_Microwave_Engineering (SÁCH CHÍNH BÀI TẬP).pdf`
 
-- Đường dây truyền sóng và các thông số của đường truyền.
-- Hệ số phản xạ, VSWR và trở kháng.
-- Đồ thị Smith và phối hợp trở kháng.
-- Ma trận tán xạ (S-parameters).
-- Mạch và hệ thống siêu cao tần.
-- Anten và các vấn đề liên quan đến truyền sóng ở tần số cao.
+### Tài liệu tham khảo
 
-> **Lưu ý:** Danh sách trên chỉ mô tả các chủ đề tiêu biểu của môn học; nội dung học cụ thể cần được đối chiếu với giáo trình/bài giảng trong repository.
+- `SmithPrint.pdf`
+- `đồ thị smith c2 này thì in tầm 5 cái nhe.pdf`
 
-## ⚠️ Lưu ý về tài liệu
+## Chủ đề học tập
 
-- Repository này là **kho tài liệu học tập**, không phải một dự án phần mềm thực thi.
-- Tên file và nội dung tài liệu gốc được giữ nguyên; thay đổi chủ yếu là **sắp xếp lại vị trí** để repository gọn hơn.
-- Một số tài liệu có thể thuộc bản quyền của tác giả/nhà xuất bản tương ứng. Vui lòng sử dụng cho mục đích học tập và tôn trọng quyền sở hữu trí tuệ.
+Các file trong kho tập trung vào nội dung của môn Kỹ thuật siêu cao tần, bao gồm giáo trình, bài giảng, tài liệu Pozar và Smith Chart. Nội dung chi tiết nên được đối chiếu trực tiếp với tài liệu học tập tương ứng.
 
-## 🔗 Repository
+## Mục đích
 
-GitHub: https://github.com/NguyenHung952/ky_thuat_sieu_cao_tan
+- Lưu trữ và hệ thống hóa tài liệu môn học.
+- Dễ tìm bài giảng, giáo trình và tài liệu Smith Chart.
+- Hỗ trợ học tập, tra cứu và ôn tập.
 
----
+## Lưu ý
 
-**📡 Microwave Engineering — Study Materials**
+Repository là kho tài liệu học tập. Một số tài liệu có thể thuộc bản quyền của giảng viên, tác giả hoặc nhà xuất bản; vui lòng sử dụng phù hợp và tôn trọng quyền sở hữu trí tuệ.
+
+## Repository
+
+https://github.com/NguyenHung952/ky-thuat-sieu-cao-tan-iuh
